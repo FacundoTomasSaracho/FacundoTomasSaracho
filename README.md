@@ -3,7 +3,8 @@
 
 ***About me***
 
-Poseo 5 años de experiencia en el rubro IT, con más de 2 años especializado en desarrollo backend. He trabajado en diversos proyectos para integrar clientes con distintas empresas que tienen presencia a nivel internacional (Telefónica LATAM/ESPAÑA | Global66)
+Poseo 5 años de experiencia en el rubro IT, con más de 2 años especializado en desarrollo backend. He trabajado en diversos proyectos para integrar clientes con distintas empresas que tienen presencia a nivel internacional  
+(Telefónica LATAM/ESPAÑA | Global66)
 
 - 🌱 Estoy actualmente aprendiendo/profundizando conocimiento en ...
   - Java
