@@ -39,9 +39,3 @@ Poseo 5 años de experiencia en el rubro IT, con más de 2 años especializado e
 <a href="https://www.linkedin.com/in/facundo-tomas-saracho/" >
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
-<h2>Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=facundotomassaracho&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/facundotomassaracho)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=facundotomassaracho&theme=material-palenight)](https://github.com/facundotomassaracho)
-</div>
