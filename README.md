@@ -42,6 +42,6 @@ Poseo 5 años de experiencia en el rubro IT, con más de 2 años especializado e
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=facundotomassaracho&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/valentinawerle)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=facundotomassaracho&theme=material-palenight)](https://github.com/valentinawerle)
+[![](https://github-readme-stats.vercel.app/api?username=facundotomassaracho&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/facundotomassaracho)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=facundotomassaracho&theme=material-palenight)](https://github.com/facundotomassaracho)
 </div>
