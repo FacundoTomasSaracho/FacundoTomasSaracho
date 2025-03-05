@@ -11,7 +11,7 @@ Poseo 5 años de experiencia en el rubro IT, con más de 2 años especializado e
   - Springboot
   - Python
 - 👯 Estoy dispuesto a colaborar en proyectos opensource/benéficos
-- Por fuera de lo techie, me encanta hacer deporte, jugar al fútbolm videojuegos, visitar cafeterías y ver películas
+- Por fuera de lo techie, me encanta hacer deporte, jugar al fútbol, videojuegos, visitar cafeterías y ver películas
 
 ## Skills
 
